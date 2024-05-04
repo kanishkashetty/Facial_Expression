@@ -2,7 +2,7 @@
 
 Convolutional Neural Network (CNN) using TensorFlow and Keras for facial expression recognition. 
 
-1. Loading the dataset and exploring its structure.
+1. Load the dataset 
 2. Preprocessing the image data by reshaping and normalizing pixel values.
 3. Building a CNN model architecture using convolutional and pooling layers.
 4. Compiling the model with appropriate optimizer, loss function, and metrics.
