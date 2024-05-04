@@ -1,4 +1,4 @@
-# Facial_Expression
+# Detecting_Facial_Expression
 
 Convolutional Neural Network (CNN) using TensorFlow and Keras for facial expression recognition. 
 
